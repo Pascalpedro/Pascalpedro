@@ -1,6 +1,8 @@
 ## Hi, I am Pascal... 🤝
 
-A Cloud Network Engineer | 🤝♾️ Optimizing connectivity for seamless Ops with Linux, IP Networks, GNS3, Python, AWS/Azure, Ansible, Docker, K8s, Jenkins...♾️🤝
+A Cloud Network Engineer... | ...focusing on bridging the gaps between business and technology!!!
+
+🤝♾️ I Optimize connectivities for seamless Ops with Linux, IP Networks, GNS3, Python, AWS/Azure, Ansible, Docker, K8s, and Jenkins...♾️🤝
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You+are+welcomed+to+my+space....)](https://git.io/typing-svg)
 
