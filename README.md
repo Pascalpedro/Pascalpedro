@@ -7,7 +7,7 @@ A Cloud Network Engineer... | ...I Optimize connectivities for seamless Operatio
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You+are+welcomed+to+my+space....)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=You+are+welcomed+to+my+space....)](https://git.io/typing-svg);[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Stay+tuned....)](https://git.io/typing-svg)
 
 <!--
 **Pascalpedro/Pascalpedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
