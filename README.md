@@ -1,8 +1,8 @@
-## Hello, I am Pascal... 🤝
+## Hello, I am Pascal... 👍
 
-A Cloud Network Engineer...
+... a Cloud Network Engineer!!!
 
-I `optimize connectivities for seamless Operations` with a focus on `bridging the gaps between business and technology` with the help of the following tools:
+I `optimize connectivities for seamless Operations` with a focus on `bridging the gaps between business and technology` with the aid of the below tools:
 
 ### 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
