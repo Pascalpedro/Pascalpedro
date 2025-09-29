@@ -27,44 +27,45 @@
 
 ## 📬 Connect with Me  
 
-<p>
+<p align="center">
 
-<a href="https://www.pedroops.com">
+  <a href="https://www.pedroops.com">
     <img src="https://img.shields.io/badge/Portfolio-PedroOps-2E86C1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  
+  </a><br/>
+
   <a href="mailto:pascal.attama@pedroops.com">
     <img src="https://img.shields.io/badge/Email-pascal.attama@pedroops.com-2E86C1?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
-  </a>
+  </a><br/>
 
   <a href="https://www.linkedin.com/in/pascal-attama">
     <img src="https://img.shields.io/badge/LinkedIn-Pascal%20Attama-2E86C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a><br/>
 
   <a href="https://github.com/pascalpedro">
     <img src="https://img.shields.io/badge/GitHub-pascalpedro-2E86C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  </a><br/>
 
   <a href="https://credly.com/users/pascal-attama">
     <img src="https://img.shields.io/badge/Certifications-Credly-2E86C1?style=for-the-badge&logo=apachecloudstack&logoColor=white" alt="Credly"/>
-  </a>
+  </a><br/>
 
   <a href="https://holopin.io/@pascalpedro">
     <img src="https://img.shields.io/badge/Badges-Holopin-2E86C1?style=for-the-badge&logo=pinboard&logoColor=white" alt="Holopin"/>
-  </a>
+  </a><br/>
 
   <a href="https://attamapascalpedro.medium.com">
-    <img src="https://img.shields.io/badge/Blog-medium-2E86C1?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
-  </a>
+    <img src="https://img.shields.io/badge/Blog-Medium-2E86C1?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
+  </a><br/>
 
   <a href="https://x.com/Pascalpedro">
-    <img src="https://img.shields.io/badge/Social-Twitter-2E86C1?style=for-the-badge&logo=x&logoColor=white" alt="Social"/>
-  </a>
+    <img src="https://img.shields.io/badge/Social-Twitter-2E86C1?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a><br/>
 
   <a href="https://www.instagram.com/pascalpedro47">
-    <img src="https://img.shields.io/badge/Social-instagram-2E86C1?style=for-the-badge&logo=instagram&logoColor=white" alt="Social"/>
+    <img src="https://img.shields.io/badge/Social-Instagram-2E86C1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
 
 ---
 
