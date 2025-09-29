@@ -23,30 +23,48 @@
 ### Holopin Badges  
 [![An image of @pascalpedro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pascalpedro)](https://holopin.io/@pascalpedro)  
 
-
-### Certifications
- 
-- [**FinOps Certified Practitioner** - Linux Foundation](https://www.credly.com/badges/5e49abb3-6b74-4286-bb20-cdbb8a8ebc37/public_url)
-
-- [**AWS Certified Cloud Practitioner** - Amazon Web Services](https://www.credly.com/badges/c0d271be-baee-4a66-8968-a41df49afeaa/public_url)  
-
-- [**Multicloud Network Associate** - Aviatrix](https://www.credly.com/badges/d1b9e976-14cf-4688-9f96-30a97bd1b7a1/public_url)  
-
-- [**Kubernetes and Cloud Native Essentials** - Linux Foundation](https://www.credly.com/badges/8d3c96f6-763b-4eea-b10e-9a6f098db09c/public_url)  
-  
-
-👉 [See all on Credly](https://www.credly.com/users/pascal-attama) 
-
 ---
 
-## 🌐 Connect with Me
+## 📬 Connect with Me  
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pascal-attama/)
-<a href="pascal.attama@pedroops.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
-[![Website](https://img.shields.io/website?label=PedroOps.com&style=for-the-badge&url=https%3A%2F%2Fpedroops.com)](https://pedroops.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.pedroops.com)
-[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://attamapascalpedro.medium.com/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Pascalpedro)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pascalpedro47/)
+<p align="center">
+
+<a href="https://www.pedroops.com">
+    <img src="https://img.shields.io/badge/Portfolio-PedroOps-2E86C1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  
+  <a href="mailto:pascal.attama@pedroops.com">
+    <img src="https://img.shields.io/badge/Email-pascal.attama@pedroops.com-2E86C1?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/pascal-attama">
+    <img src="https://img.shields.io/badge/LinkedIn-Pascal%20Attama-2E86C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/pascalpedro">
+    <img src="https://img.shields.io/badge/GitHub-pascalpedro-2E86C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://credly.com/users/pascal-attama">
+    <img src="https://img.shields.io/badge/Certifications-Credly-2E86C1?style=for-the-badge&logo=apachecloudstack&logoColor=white" alt="Credly"/>
+  </a>
+
+  <a href="https://holopin.io/@pascalpedro">
+    <img src="https://img.shields.io/badge/Badges-Holopin-2E86C1?style=for-the-badge&logo=pinboard&logoColor=white" alt="Holopin"/>
+  </a>
+
+  <a href="https://attamapascalpedro.medium.com">
+    <img src="https://img.shields.io/badge/Blog-medium-2E86C1?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
+  </a>
+
+  <a href="https://x.com/Pascalpedro">
+    <img src="https://img.shields.io/badge/Social-Twitter-2E86C1?style=for-the-badge&logo=x&logoColor=white" alt="Social"/>
+  </a>
+
+  <a href="https://www.instagram.com/pascalpedro47">
+    <img src="https://img.shields.io/badge/Social-instagram-2E86C1?style=for-the-badge&logo=instagram&logoColor=white" alt="Social"/>
+  </a>
+</p>
 
 ---
 
