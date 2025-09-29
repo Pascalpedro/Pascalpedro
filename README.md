@@ -28,6 +28,25 @@ _I am open to new opportunities/contributions._
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pascalattama.netlify.app/)  [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@attamapascalpedro)
 
 
+## 🏆 Achievements & Badges  
+
+### GitHub Achievements  
+👉 *See the Achievements tab on my profile for GitHub-native badges.*  
+
+### Holopin Badges  
+[![An image of @pascalpedro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pascalpedro)](https://holopin.io/@pascalpedro)  
+
+
+### Credly Verified Certifications  
+[![FinOps Certified Practitioner](https://images.credly.com/size/110x110/images/fe3dd5c0-5c3b-4a4e-9503-59b02b5f3873/image.png)](https://www.credly.com/users/pascal-attama)  
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/2e3c4d23-90cc-4f68-9b6d-2213c6b2c6c4/aws-cloud-practitioner.png)](https://www.credly.com/users/pascal-attama)  
+[![Aviatrix Multicloud Network Associate](https://images.credly.com/size/110x110/images/10b1df4e-8f9c-4d26-b3d3-4b2af1b7f4b5/image.png)](https://www.credly.com/users/pascal-attama)  
+[![Kubernetes and Cloud Native Essentials](https://images.credly.com/size/110x110/images/922f7d3e-ef0d-4d3a-9f13-5d0c64b91f45/image.png)](https://www.credly.com/users/pascal-attama)  
+[![Cisco Network Support & Security](https://images.credly.com/size/110x110/images/8d9c81a0-df1d-4e6c-b7c1-9efb1a5c7b21/image.png)](https://www.credly.com/users/pascal-attama)  
+[![Linux Foundation Cybersecurity Essentials](https://images.credly.com/size/110x110/images/69f5d64a-f7e2-4bc7-9374-3e47c4cc7a54/image.png)](https://www.credly.com/users/pascal-attama)  
+[![Huawei HCIA Routing & Switching](https://images.credly.com/size/110x110/images/2f2d7d7d-9096-4b9d-91e5-ccfddf4bdf92/image.png)](https://www.credly.com/users/pascal-attama)  
+
+👉 [View all certifications on Credly](https://www.credly.com/users/pascal-attama)  
 
 ## 👨‍💻 Technologies and Tools
 
