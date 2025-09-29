@@ -27,7 +27,7 @@
 
 ## 📬 Connect with Me  
 
-<p align="center">
+<p>
 
 <a href="https://www.pedroops.com">
     <img src="https://img.shields.io/badge/Portfolio-PedroOps-2E86C1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
