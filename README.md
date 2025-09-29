@@ -98,7 +98,7 @@
 
 ---
 
-## How I Deliver:
+## 👨‍💻 How I Deliver:
 
 ✅ Hands-on AWS engineer + FinOps strategist.
 
