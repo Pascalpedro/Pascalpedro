@@ -3,30 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=Welcome+to+my+GitHub+Space!)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=💻+Cloud+Networking;☁️+Cloud+Cost+Optimization;🔐+Security-first+Architecture;⚙️+Infrastructure+as+Code;🧠+AI-powered+SaaS+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=🔐+IAM+Security;💰+FinOps+Cost+Optimization;☁️+Cloud+Migration;⚡+Infrastructure+Automation;📊+Cloud+Visibility)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently doing **Cloud** and **DevOps**
-- ⚙ I optimize connectivities for seamless Operations with a focus on `bridging the gaps between business and technology`.
-- 👨‍💻 All of my projects are available at **[here][github]** or **[pascalattama.netlify.app][portfolio]** and **[pedroops.com][website]**
-- 📝 I regulary write articles on **[my blog][blog]**
-- 📫 How to reach me **[pedroops.com][website]**
+## About Me
+- 🔭 Currently working in **Cloud** and **DevOps**.
+- ⚙ I help businesses migrate to AWS without downtime, reduce cloud costs, secure AWS environments, and automate deployments— `so you can scale faster, safer, and more cost-effectively.`
+- 👨‍💻 Explore my projects **[here][github]** and **[pedroops.com][website]**
+- 📝 I write on **[attamapascalpedro.medium.com/][blog]**
+- 📫 Reach me at **[pascal.attama@pedroops.com][mail]**
 
-## 🤝 Let’s Collaborate 🤝
-
-## 📧 You can contact me at:
-
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pascal-attama/)
-
-_I am open to new opportunities/contributions._
-
-## 🔎 You can find me on:
-
-<a href="mailto:attamapascalpedro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pascal-attama/)
-[![Website](https://img.shields.io/website?label=PedroOps.com&style=for-the-badge&url=https%3A%2F%2Fpedroops.com)](https://pedroops.com)  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Pascalpedro)   [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pascalpedro47/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pascalpedro.attama)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pascalattama.netlify.app/)  [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@attamapascalpedro)
-
+---
 
 ## 🏆 Achievements & Badges  
 
@@ -37,44 +24,83 @@ _I am open to new opportunities/contributions._
 [![An image of @pascalpedro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pascalpedro)](https://holopin.io/@pascalpedro)  
 
 
-### Credly Verified Certifications  
-[![FinOps Certified Practitioner](https://images.credly.com/size/110x110/images/fe3dd5c0-5c3b-4a4e-9503-59b02b5f3873/image.png)](https://www.credly.com/users/pascal-attama)  
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/2e3c4d23-90cc-4f68-9b6d-2213c6b2c6c4/aws-cloud-practitioner.png)](https://www.credly.com/users/pascal-attama)  
-[![Aviatrix Multicloud Network Associate](https://images.credly.com/size/110x110/images/10b1df4e-8f9c-4d26-b3d3-4b2af1b7f4b5/image.png)](https://www.credly.com/users/pascal-attama)  
-[![Kubernetes and Cloud Native Essentials](https://images.credly.com/size/110x110/images/922f7d3e-ef0d-4d3a-9f13-5d0c64b91f45/image.png)](https://www.credly.com/users/pascal-attama)  
-[![Cisco Network Support & Security](https://images.credly.com/size/110x110/images/8d9c81a0-df1d-4e6c-b7c1-9efb1a5c7b21/image.png)](https://www.credly.com/users/pascal-attama)  
-[![Linux Foundation Cybersecurity Essentials](https://images.credly.com/size/110x110/images/69f5d64a-f7e2-4bc7-9374-3e47c4cc7a54/image.png)](https://www.credly.com/users/pascal-attama)  
-[![Huawei HCIA Routing & Switching](https://images.credly.com/size/110x110/images/2f2d7d7d-9096-4b9d-91e5-ccfddf4bdf92/image.png)](https://www.credly.com/users/pascal-attama)  
+### Certifications
+ 
+- [**FinOps Certified Practitioner** - Linux Foundation](https://www.credly.com/badges/5e49abb3-6b74-4286-bb20-cdbb8a8ebc37/public_url)
 
-👉 [View all certifications on Credly](https://www.credly.com/users/pascal-attama)  
+- [**AWS Certified Cloud Practitioner** - Amazon Web Services](https://www.credly.com/badges/c0d271be-baee-4a66-8968-a41df49afeaa/public_url)  
 
-## 👨‍💻 Technologies and Tools
+- [**Multicloud Network Associate** - Aviatrix](https://www.credly.com/badges/d1b9e976-14cf-4688-9f96-30a97bd1b7a1/public_url)  
 
-| Category           | Tools                                                                                                                                                                                                                                                                                           |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Cloud              | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)                                                                                                                                                                                                          |
-| Hosting/SaaS       | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)                                                                                                                                                                                                                                                |
-| Languages          | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)   ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Shell](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white) ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)                                                                                                                                                                                                                                                         |
-| Frameworks         |  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)    ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)                                                                                                                                                                                                           |
-| Version Control    |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)                                                                                                                                                                                                                                        |
-| Servers            | ![Apache](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)   ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)                                                                                                                                                                                                                 |
-| Databases          | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)                                                                                                                                                                                                                                                   |
-| Deployment         | ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)  ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)  ![Github Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white)                                                                                                                                                                                                                                                                                                                                                    |
-| Metrics & Analytics | ![Datadog](https://img.shields.io/badge/Datadog-F2F4F9?style=for-the-badge&logo=datadog&logoColor=purple) ![Prometheus](https://img.shields.io/badge/Prometheus-F2F4F9?style=for-the-badge&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)    ![Istio](https://img.shields.io/badge/Istio-566aa5?style=for-the-badge&logo=istio&logoColor=white)                                                                      |                                                                                              
-| Network & Security       | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)   ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E33?style=for-the-badge&logo=ngrok&logoColor=white)                                                                                                                            |        
-| Architecture    |  ![Lucidchart](https://img.shields.io/badge/Lucidchart-FFA500?style=for-the-badge&logo=lucidchart&logoColor=white) ![GNS3](https://img.shields.io/badge/GNS3-2E3A59?style=for-the-badge&logo=gns3&logoColor=white) ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=draw.io&logoColor=white)                                                                                                                                                                                                         |
-| Editor   | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)                                                                                                                                                                                                                                                                                                        |
+- [**Kubernetes and Cloud Native Essentials** - Linux Foundation](https://www.credly.com/badges/8d3c96f6-763b-4eea-b10e-9a6f098db09c/public_url)  
+  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Stay+tuned+and;Brace+for+impact!!!;You+are+entering+the+PedroOps+zone......)](https://git.io/typing-svg)
+👉 [See all on Credly](https://www.credly.com/users/pascal-attama) 
+
+---
+
+## 🌐 Connect with Me
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pascal-attama/)
+<a href="pascal.attama@pedroops.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+[![Website](https://img.shields.io/website?label=PedroOps.com&style=for-the-badge&url=https%3A%2F%2Fpedroops.com)](https://pedroops.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.pedroops.com)
+[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://attamapascalpedro.medium.com/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Pascalpedro)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pascalpedro47/)
+
+---
+
+## 🔧 Skills Snapshot 
+
+🔐 `Security Hardening` → Strong IAM, compliance-ready configurations, zero-trust practices.
+
+💰 `Cost Optimization` → FinOps best practices, cut Cloud bills.
+
+⚡ `Infra Automation` → IaC with Terraform,Ansible & CDK.
+
+☁️ `Cloud Migration` → Zero-downtime lift-and-shift or re-architected migrations.
+
+📊 `Visibility` → Dashboards & reports for cost + security health.
+
+---
+
+## 🛠 Tools I Use
+
+| Category | Tools |
+|----------|-------|
+| **Cloud & Platforms** | ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
+| **Languages & Config** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) |
+| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
+| **CI/CD & IaC** | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=for-the-badge&logo=aws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
+| **Monitoring & Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white) | 
+| **Networking & Security** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | 
+| **Collaboration & Version Control** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | 
+| **Editors** | ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) |
+
+---
+
+## How I Deliver:
+
+✅ Hands-on AWS engineer + FinOps strategist.
+
+✅ Migration & optimization expertise across enterprise + hybrid environments.
+
+✅ Secure, efficient, and governance-aligned infrastructure without the bloat.
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Available+for:;Cloud+Engineering+%26+FinOps+projects;Let's+connect+and+collaborate)](https://git.io/typing-svg)
+
 
 
 
 
 </details>
 
-[website]: https://pedroops.com
-[portfolio]: https://pascalattama.netlify.app/
-[blog]: https://
+[website]: https://www.pedroops.com
+[portfolio]: https://www.pedroops.com
+[mail]: pascal.attama@pedroops.com
+[blog]: https://attamapascalpedro.medium.com/
 [twitter]: https://x.com/Pascalpedro
 [instagram]: https://instagram.com/pascalpedro47
 [linkedin]: https://linkedin.com/in/pascal-attama/
