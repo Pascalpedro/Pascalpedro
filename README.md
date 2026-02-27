@@ -112,8 +112,6 @@
 
 
 
-
-
 </details>
 
 [website]: https://www.pedroops.com
